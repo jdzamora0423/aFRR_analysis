@@ -1,5 +1,7 @@
 This project is about analysis and forecasting of activated volume of secondary balancing power in the German grid, focusing on the behavior of trend breaks, or spikes in activated volume.
 
+### Discussion
+
 The activated energies, both positive and negative, have distributions highly skewed to the right. Most of the time the activated energies are relatively low, averaging around 26MWh with the 75th percentile only at 30 MWh. The differences for different intervals were also averaging at zero with a standard deviation of around 36 MWh.
 
 Data using the 15-min interval was most helpful in analyzing changes in the activated energies where larger spikes mostly occur on the hour of almost every hour of the day. The box plot of the 120-minute interval showed that relatively higher changes in activated energies happen at the middle of the day and during the night.
